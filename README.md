@@ -5,3 +5,6 @@ Assignment 1 Comments:
 ->Q5- The most frequent words needs to be checked. Remove numbers
 ->Try avoiding hardcoding punctuation and removing
 ->Q7- q letter probabability is 0. Check 
+
+
+I have rectified the changes suggested. Thank you for feedback 
