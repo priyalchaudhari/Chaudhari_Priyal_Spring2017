@@ -1,1 +1,7 @@
 # Chaudhari_Priyal_Spring2017
+Assignment 1 Comments:
+->Well structred.Good comments
+->Q4- Error in counting posts of user121 and each group. There are two more categories : teens and adults
+->Q5- The most frequent words needs to be checked. Remove numbers
+->Try avoiding hardcoding punctuation and removing
+->Q7- q letter probabability is 0. Check 
