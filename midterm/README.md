@@ -63,6 +63,9 @@
 - result of this file is stored in csv file in desired folder
 ### conclusion:
 - Most of the articles zipfs law as they use words repitatively.  
+## Result:
+![q2a3](https://cloud.githubusercontent.com/assets/25044602/23641330/e7416dae-02c0-11e7-8e5d-e2e53c22cf53.PNG)
+
 
 # Question 1 Analysis 1:
 
