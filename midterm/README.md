@@ -50,6 +50,7 @@
 - I a searched for those words in article headline and found results. 
 
 # Result:
+![q2a2](https://cloud.githubusercontent.com/assets/25044602/23641293/9cd4daa8-02c0-11e7-814b-dc421c0ab7d5.PNG)
 
 
 
