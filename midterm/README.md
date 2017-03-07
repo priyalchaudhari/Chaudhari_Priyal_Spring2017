@@ -77,6 +77,10 @@
 - In 1999:  {'topic_1': 235, 'topic_2': 86}
 - in 2000:  {'topic_1': 5222, 'topic_2': 2024}
 - in 2001:  {'topic_1': 6417, 'topic_2': 1857}
+
+![q1a1](https://cloud.githubusercontent.com/assets/25044602/23640977/d73c76e4-02be-11e7-88b0-a066e83dc20b.PNG)
+
+
 # Conclusion:
 - As we can see there is significance increase in meeting related terms in 2001 compaired to 1999. And there is significant     decrease in business related terms in 2001. 
 
