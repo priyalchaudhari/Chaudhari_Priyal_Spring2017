@@ -33,6 +33,7 @@
 - Result on daily data will be more accurate than monthly. 
 
 # result:
+![q2a1](https://cloud.githubusercontent.com/assets/25044602/23641160/e4ee0cb6-02bf-11e7-9185-d8ebdb9d7bf3.PNG)
 
 ## conclusion
 - If you compair the results with timeline the score differs like at 2011 near september and october the score is low because of 9/11 
