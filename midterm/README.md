@@ -98,6 +98,7 @@
 
 ![q1a2](https://cloud.githubusercontent.com/assets/25044602/23641094/7d7755a6-02bf-11e7-8f56-39c387816e00.PNG)
 
+![q1a2 1](https://cloud.githubusercontent.com/assets/25044602/23641110/9add028a-02bf-11e7-9a5e-e7f84b80f970.PNG)
 
 # Question 1 Analysis 3:
 
