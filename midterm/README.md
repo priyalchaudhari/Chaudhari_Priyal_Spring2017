@@ -96,6 +96,8 @@
 
 # Result:
 
+![q1a2](https://cloud.githubusercontent.com/assets/25044602/23641094/7d7755a6-02bf-11e7-8f56-39c387816e00.PNG)
+
 
 # Question 1 Analysis 3:
 
