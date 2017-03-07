@@ -108,6 +108,11 @@
 - Reason: I wanted to see if he has got any refund request and who sent those request and how much money they are claiming . 
 - Interesting fact is all those refund request email has found in deleted items folder . 
 ### used NLTK to tokanize the subject line of the email 
+## Result: 
+
+![q3a3](https://cloud.githubusercontent.com/assets/25044602/23641227/41a13c30-02c0-11e7-8eb3-3e89c0046037.PNG)
+
+
 ### conclusion :
 - The conclusion i made from this analysis is he didnt pay attention to those request or he dont want others to find out about it hence he deleted those emails from his inbox. 
 
