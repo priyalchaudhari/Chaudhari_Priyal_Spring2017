@@ -1,7 +1,7 @@
 
-# MIDTERM ANALYSIS:
 
-# Question 2 Analysis 1:
+
+#  Analysis 1:
 
 # Opinion mining (AKA sentimental Analysis)of newspaper Headlines(Positive and neative score) using NLTK
 
@@ -40,7 +40,7 @@
 - Also in january 2017 the score is low because of new president news and controversies. 
 - Error calculation can be inplimented for future scope 
 
-# Question 2 Analysis 2:
+#  Analysis 2:
 
 ## Finding the article in sports section related to given 2 words using NLTK API used is Article search in sports section 
 ### Goal of this analysis is to find articles related to words provided like Hero and poor so i wanted to see which are the headlines who praised the heros in sports and which are the headline related to poor performance. 
@@ -54,7 +54,7 @@
 
 
 
-# Question 2 Analysis_3
+#  Analysis_3
 ## Analysis to determine the complexity of article based on news desk 
 #### Goal of this analysis is to find out articles under which news_desk are more complex 
 - first i extracted the news desk and paragrapth of each article 
@@ -67,7 +67,7 @@
 ![q2a3](https://cloud.githubusercontent.com/assets/25044602/23641330/e7416dae-02c0-11e7-8e5d-e2e53c22cf53.PNG)
 
 
-# Question 1 Analysis 1:
+#  Analysis 4:
 
 ### Topic 1 contains a lot of meeting related words, perhaps they are fromemails that were sent as meeting notices.
 ### Topic 2 while related to business seems to be more about the processrather than the content of the core business. It has a lot   of terms relevant to business legalities.
@@ -89,7 +89,7 @@
 # Conclusion:
 - As we can see there is significance increase in meeting related terms in 2001 compaired to 1999. And there is significant     decrease in business related terms in 2001. 
 
-# Question 1 Analysis 2:
+# Analysis 5:
 ## Goal of this analysis is to find the employes and there most frequent contact through Emails:
 - Reason: The reason i wanted to do this analysis is as Enron CEOs commited froud i wanted to see how many employes are in frequent contact with the. 
 - So by determinng that we can determine the chatter between the organisation and see whos envolved in the suspicious activities. 
@@ -105,7 +105,7 @@
 
 ![q1a2 1](https://cloud.githubusercontent.com/assets/25044602/23641110/9add028a-02bf-11e7-9a5e-e7f84b80f970.PNG)
 
-# Question 1 Analysis 3:
+# Analysis 6:
 
 ## Goal of this analysis is to find out how many refund request or emails the CEO LAY-K who was the CEO at the time the scandal got public got . Who are the persons who send those request 
 
